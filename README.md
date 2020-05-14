@@ -3,7 +3,7 @@ Data Mining Project
 
 **_PROJECT NAME:_  Bengali.AI Handwritten grapheme classification**
 
-How to run code: 
+## How to run code: 
 
 ### STEP 1: 
 Download Bengali.AI Handwritten grapheme classification competition dataset from kaggle ( file size : approx 4.82 GB )
