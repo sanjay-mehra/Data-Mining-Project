@@ -20,9 +20,11 @@ We didn't have any prior practical experience working with machine learning or d
 
 ## Software and hardware requirements
  - software requirements:
-   - kaggle kernel
+   - TensorFlow
  - Hardware requirements:
-   - GPU
+   - Central Processing Unit (CPU) — Intel Core i5 6th Generation processor or higher is recommended. An AMD equivalent processor will also be optimal.
+   - RAM — 8 GB minimum, 16 GB or higher is recommended.
+   - Graphics Processing Unit (GPU) — NVIDIA GeForce GTX 960 or higher is recommended. For more information on NVIDIA GPUs for deep learning please visit https://developer.nvidia.com/cuda-gpus.
 
 ## The GPU Problem
 Because I do not own any GPU other than an Intel HD 520 (which is obviously useless for deep learning), I had to use cloud services. Since I did not want to pay for my experiments, I was somewhat limited in my options. So, there are two services I used
