@@ -18,6 +18,12 @@ The competition can be viewed [here](https://www.kaggle.com/c/bengaliai-cv19) an
 ## Experience Level
 We didn't have any prior practical experience working with machine learning or deep learning. So it was a bit challenging for us to work in this competition as we never participated in kaggle competition earlier.
 
+## Software and hardware requirements
+ - software requirements:
+   - kaggle kernel
+ - Hardware requirements:
+   - GPU
+
 ## The GPU Problem
 Because I do not own any GPU other than an Intel HD 520 (which is obviously useless for deep learning), I had to use cloud services. Since I did not want to pay for my experiments, I was somewhat limited in my options. So, there are two services I used
 - **kaggle kernal:** These give you 30h of GPU-time per week. They can run up to 9h in one go and are nicely integrated into the Kaggle ecosystem.
