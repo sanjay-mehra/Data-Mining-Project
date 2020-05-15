@@ -31,7 +31,7 @@ Use of GPU is much better than no GPU at all.
 ## How to run code? ( Kaggle version )
 **prerequisite:** Should have a kaggle account ( if not create one )
 
-**Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
+**Kaggle version Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
 
 ### STEP 1: 
 Open [Kaggle Notebooks](https://github.com/sanjay-mehra/Data-Mining-Project/blob/master/Bengali_CNN.ipynb) and then create new notebook.
@@ -45,7 +45,8 @@ Now you are all set to run the given code.
 
 ## How to run code? ( Google Colab version )
 **prerequisite:** Should have a google colab account ( if not create one )
-**Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
+
+**Google colab Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
 
 ### STEP 1: 
 Download competition data from kaggle. ( File size : approx 4.8 GB )
