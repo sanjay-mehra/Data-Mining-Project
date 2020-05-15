@@ -30,10 +30,11 @@ Use of GPU is much better than no GPU at all.
   
 ## How to run code? ( Kaggle version )
 **prerequisite:** Should have a kaggle account ( if not create one )
+
 **Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
 
 ### STEP 1: 
-Open [Kaggle Notebooks](https://www.kaggle.com/notebooks/) and then create new notebook.
+Open [Kaggle Notebooks](https://github.com/sanjay-mehra/Data-Mining-Project/blob/master/Bengali_CNN.ipynb) and then create new notebook.
 
 ### STEP 2:
 Now add competition data to your notebook.
