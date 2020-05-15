@@ -25,18 +25,17 @@ Because I do not own any GPU other than an Intel HD 520 (which is obviously usel
   - I have to take precautions against losing my progress: If it suddenly disconnects (which is possible) I obviously do not want to lose all my progress on the current experiment. My solution to this was to connect it to Google Drive and create a backup in a Google Drive folder after every epoch.
 
 ## How to run code?
+**prerequisite:** Should have a kaggle account.
 
 ### STEP 1: 
-Download Bengali.AI Handwritten grapheme classification competition dataset from kaggle ( file size : approx 4.82 GB )
+Open [Kaggle Notebooks](https://www.kaggle.com/notebooks/) and then create new notebook.
 
-### STEP 2: 
-Open google colab and sign in there.
+### STEP 2:
+Now add competition data to your notebook.
 
-### STEP 3: 
-Create a new notebook and write code there.
+### STEP 3:
+Now you are all set to run the given code.
 
-### STEP 4: 
-Place competition data on your drive and give permissions to read and write file through google colab.
 
-### STEP 5: 
-Now simply run the available code on google colab.
+
+
