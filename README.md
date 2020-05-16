@@ -36,10 +36,10 @@ Because I do not own any GPU other than an Intel HD 520 (which is obviously usel
 Use of GPU is much better than no GPU at all.
   
   
-## How to run code? ( Kaggle version )
+## How to run code?
 **prerequisite:** Should have a kaggle account ( if not create one )
 
-**Kaggle version Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/blob/master/Bengali_CNN.ipynb)
+**Kaggle kernal Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/blob/master/Bengali_CNN.ipynb)
 
 ### STEP 1: 
 Open [Kaggle Notebooks](https://www.kaggle.com/notebooks) and then create new notebook.
@@ -50,25 +50,9 @@ Now add competition data to your notebook.
 ### STEP 3:
 Now you are all set to run the given code.
 
-
-## How to run code? ( Google Colab version )
-**prerequisite:** Should have a google colab account ( if not create one )
-
-**Google colab Code** is available [here](https://github.com/sanjay-mehra/Data-Mining-Project/)
-
-### STEP 1: 
-Download competition data from kaggle. ( File size : approx 4.8 GB )
-
-### STEP 2:
-Add data to your google drive and give permission to read and write the file.
-
-### STEP 3: 
-Open [Google Colab](https://colab.research.google.com/) and then create new notebook.
-
 ### STEP 4:
-Now simply run the given code on Google Colab.
-
-
+Now Click on File button and select upload button.
+So in this way we can run our code on Kaggle kernal using GPU.
 
 
 
